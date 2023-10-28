@@ -1,0 +1,60 @@
+
+body {
+    background-color: #011F3F;
+}
+
+h1 {
+    text-align: center;
+    color: #FEF2BF;
+    font-family: 'Righteous', cursive;
+    font-size: 4rem;
+}
+
+
+.green {
+    background-color: green;
+    margin-right: 20px;
+}
+
+.red {
+    background-color: red;
+    margin-left: 20px;
+}
+
+.yellow {
+    background-color: yellow;
+    margin-right: 20px;
+}
+
+.blue {
+    background-color: blue;
+    margin-left: 20px;
+}
+
+.divsizing {
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 15px;
+    display: inline-block;
+    width: 160px;
+    height: 160px;
+}
+
+.row {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.top-row {
+    padding: 20px 0 20px;
+}
+
+.bottom-row {
+    padding: 20px 0 20px;
+}
+
+.pressed {
+    box-shadow: 0 0 20px white;
+    background-color: black;
+}
